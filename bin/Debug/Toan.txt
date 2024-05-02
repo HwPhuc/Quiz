@@ -18,3 +18,4 @@ Một hình chóp có bao nhiêu đỉnh?;1;4;6;8;4
 Số học sinh của lớp 6A là 45, số học sinh giỏi chiếm 20%, vậy có bao nhiêu học sinh giỏi?;6;7;8;9;9
 Trong một ngày có bao nhiêu giờ?;12;24;36;48;24
 2^-1 bằng mấy?;2;-2;1;Không tồn tại;D
+1^0 bằng mấy?;1;2;3;4;1

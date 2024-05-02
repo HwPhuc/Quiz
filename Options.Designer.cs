@@ -45,7 +45,7 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(76, 222);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(169, 37);
+            this.label1.Size = new System.Drawing.Size(105, 25);
             this.label1.TabIndex = 0;
             this.label1.Text = "Số câu hỏi";
             // 
@@ -67,7 +67,7 @@
             this.rdHoa.AutoSize = true;
             this.rdHoa.Location = new System.Drawing.Point(562, 47);
             this.rdHoa.Name = "rdHoa";
-            this.rdHoa.Size = new System.Drawing.Size(107, 41);
+            this.rdHoa.Size = new System.Drawing.Size(69, 29);
             this.rdHoa.TabIndex = 1;
             this.rdHoa.TabStop = true;
             this.rdHoa.Text = "Hóa";
@@ -78,7 +78,7 @@
             this.rdLi.AutoSize = true;
             this.rdLi.Location = new System.Drawing.Point(421, 47);
             this.rdLi.Name = "rdLi";
-            this.rdLi.Size = new System.Drawing.Size(73, 41);
+            this.rdLi.Size = new System.Drawing.Size(48, 29);
             this.rdLi.TabIndex = 1;
             this.rdLi.TabStop = true;
             this.rdLi.Text = "Lí";
@@ -89,7 +89,7 @@
             this.rdToan.AutoSize = true;
             this.rdToan.Location = new System.Drawing.Point(249, 47);
             this.rdToan.Name = "rdToan";
-            this.rdToan.Size = new System.Drawing.Size(122, 41);
+            this.rdToan.Size = new System.Drawing.Size(79, 29);
             this.rdToan.TabIndex = 1;
             this.rdToan.TabStop = true;
             this.rdToan.Text = "Toán";
@@ -101,7 +101,7 @@
             this.rdTiengAnh.Checked = true;
             this.rdTiengAnh.Location = new System.Drawing.Point(32, 47);
             this.rdTiengAnh.Name = "rdTiengAnh";
-            this.rdTiengAnh.Size = new System.Drawing.Size(195, 41);
+            this.rdTiengAnh.Size = new System.Drawing.Size(124, 29);
             this.rdTiengAnh.TabIndex = 0;
             this.rdTiengAnh.TabStop = true;
             this.rdTiengAnh.Text = "Tiếng Anh";
@@ -111,7 +111,7 @@
             // 
             this.txtSoCauHoi.Location = new System.Drawing.Point(223, 222);
             this.txtSoCauHoi.Name = "txtSoCauHoi";
-            this.txtSoCauHoi.Size = new System.Drawing.Size(100, 44);
+            this.txtSoCauHoi.Size = new System.Drawing.Size(100, 30);
             this.txtSoCauHoi.TabIndex = 2;
             this.txtSoCauHoi.Text = "10";
             this.txtSoCauHoi.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
@@ -131,13 +131,13 @@
             this.lbChao.AutoSize = true;
             this.lbChao.Location = new System.Drawing.Point(61, 27);
             this.lbChao.Name = "lbChao";
-            this.lbChao.Size = new System.Drawing.Size(151, 37);
+            this.lbChao.Size = new System.Drawing.Size(94, 25);
             this.lbChao.TabIndex = 4;
             this.lbChao.Text = "Xin chào,";
             // 
             // Options
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(19F, 37F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(790, 291);
             this.Controls.Add(this.lbChao);

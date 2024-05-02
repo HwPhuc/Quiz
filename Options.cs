@@ -28,6 +28,11 @@ namespace KiemTraTracNghiem
         private void btnXong_Click(object sender, EventArgs e)
         {
             FrmTest.soCauHoi = Int32.Parse(txtSoCauHoi.Text);
+            if (FrmTest.soCauHoi <= 0)
+            {
+                MessageBox.Show("Số câu hỏi phải lớn hơn 0");
+                return;
+            }
             if (rdTiengAnh.Checked)
             {
                 FrmTest.monThu = 1;
@@ -99,5 +104,7 @@ namespace KiemTraTracNghiem
             }
             return lineNumber;
         }
+
+      
     }
 }

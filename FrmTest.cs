@@ -1,13 +1,6 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace KiemTraTracNghiem
@@ -33,7 +26,6 @@ namespace KiemTraTracNghiem
         int kk;
         Random rand = new Random();
         int timeLimit = soCauHoi*10;//Mỗi câu hỏi có 10s trả lời
-        List<int> nums = new List<int>();
     
         public FrmTest()
         {
@@ -44,8 +36,8 @@ namespace KiemTraTracNghiem
         {
             btnNext.Enabled = false;
             btnSave.Enabled = false;
-            
-            
+            txtCauHoi.Text = "Bạn có " + timeLimit + " giây để trả lời các câu hỏi " +
+                "Vui lòng bấm nút Start để bắt đầu";            
 
             // khởi tạo các mảng dữ liệu
             arrQuestion = new string[tongSoCauHoi];
@@ -81,6 +73,10 @@ namespace KiemTraTracNghiem
                 time -= 1;
                 lbTime.Text = (time/60).ToString() + " : " + (time%60).ToString();
             }
+            else//nếu hết thời gian
+            {
+                btnNext.Enabled = false;
+            }
         }
 
         private void btnStart_Click(object sender, EventArgs e)
@@ -93,6 +89,7 @@ namespace KiemTraTracNghiem
             btnQuayLai.Enabled = false;
             //gán lại bắng 0 mỗi khi bắt đầu
             soCauLamDung = 0;
+            soCauDalam = 0;
             lbTotal.Text = tongSoCauHoi.ToString();
             //lấy số ngẫu nhiên trong tổng số câu hỏi
             kk=rand.Next(tongSoCauHoi);
@@ -165,7 +162,14 @@ namespace KiemTraTracNghiem
             }
             else
             {
-                MessageBox.Show("Đáp án đúng là: " + arrAnswer[kk]);
+                
+                timer1.Stop();//trả lời sai thì dừng thời gian
+                DialogResult rs = MessageBox.Show("Đáp án đúng là: " + arrAnswer[kk],
+                    "Nofication", MessageBoxButtons.OK);
+                if (rs == DialogResult.OK)
+                {
+                    timer1.Start();
+                }
             }
             //gán mặc định là đáp án A
             rdA.Checked = true;
@@ -190,11 +194,17 @@ namespace KiemTraTracNghiem
             string ketQua = String.Format("{0},Họ tên: {1},Điểm: {2}",
                 ngayThang, Options.name, (soCauLamDung * 5).ToString());
             //làm đúng được 5 điểm mỗi câu
-            using(StreamWriter writer = new StreamWriter("ketQua.txt",true))
+            try
             {
-                writer.WriteLine(ketQua);
+                using (StreamWriter writer = new StreamWriter("ketQua.txt", true))
+                {
+                    writer.WriteLine(ketQua);
+                }
+            }catch (Exception ex)
+            {
             }
-            MessageBox.Show("Đã lưu thành công kết quả!");
+            MessageBox.Show("Đã lưu thành công kết quả!\n" +
+                "Điểm bạn nhận được là: "+ soCauLamDung*5);
             btnNext.Enabled = false;
             btnSave.Enabled = false;
             btnQuayLai.Enabled = true;

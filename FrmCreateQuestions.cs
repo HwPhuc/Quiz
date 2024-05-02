@@ -14,15 +14,12 @@ namespace KiemTraTracNghiem
     public partial class FrmCreateQuestions : Form
     {
         public static int monThu;
+        bool flag = true;
         public FrmCreateQuestions()
         {
             InitializeComponent();
         }
 
-        private void FrmCreateQuestions_Load(object sender, EventArgs e)
-        {
-
-        }
 
         private void btnGhiCauHoi_Click(object sender, EventArgs e)
         {
@@ -53,12 +50,13 @@ namespace KiemTraTracNghiem
             string dapAnD = txtDAD.Text;
 
             string dapAnDung = "";
-            if (rdA.Checked) dapAnDung = "A";
-            else if (rdB.Checked) dapAnDung = "B";
-            else if (rdC.Checked) dapAnDung = "C";
-            else if (rdD.Checked) dapAnDung = "D";
+            if (rdA.Checked) dapAnDung = dapAnA;
+            else if (rdB.Checked) dapAnDung = dapAnB;
+            else if (rdC.Checked) dapAnDung = dapAnC;
+            else if (rdD.Checked) dapAnDung = dapAnD;
 
-            string noiDungGhi = cauHoi + ";" + dapAnA + ";" + dapAnB + ";" + dapAnC + ";" + dapAnD + ";" + dapAnDung;
+            string noiDungGhi = cauHoi + ";" + dapAnA + ";" + dapAnB + ";" + 
+                dapAnC + ";" + dapAnD + ";" + dapAnDung;
 
             try
             {
@@ -73,14 +71,37 @@ namespace KiemTraTracNghiem
                 txtDAB.Text = "";
                 txtDAC.Text = "";
                 txtDAD.Text = "";
-                rdA.Checked = false;
-                rdB.Checked = false;
-                rdC.Checked = false;
-                rdD.Checked = false;
+                rdA.Checked = true;
+                txtCauHoi.Focus();
             }
             catch (Exception ex)
             {
                 MessageBox.Show("Lỗi ghi file: " + ex.Message);
+            }
+        }
+
+        private void btnBack_Click(object sender, EventArgs e)
+        {
+            flag = false;
+            this.Close();
+        }
+
+        private void FrmCreateQuestions_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if(flag)
+            {
+                Application.Exit();
+            }
+        }
+
+        private void FrmCreateQuestions_Load(object sender, EventArgs e)
+        {
+            switch (monThu)
+            {
+                case 1: label1.Text += " TIẾNG ANH"; break;
+                case 2: label1.Text += " TOÁN"; break;
+                case 3: label1.Text += " LÝ"; break;
+                case 4: label1.Text += " HÓA"; break;
             }
         }
     }

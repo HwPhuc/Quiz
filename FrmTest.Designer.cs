@@ -57,7 +57,7 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(811, 46);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(247, 37);
+            this.label1.Size = new System.Drawing.Size(152, 25);
             this.label1.TabIndex = 0;
             this.label1.Text = "Tổng số câu hỏi";
             // 
@@ -66,7 +66,7 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(63, 46);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(150, 37);
+            this.label2.Size = new System.Drawing.Size(93, 25);
             this.label2.TabIndex = 0;
             this.label2.Text = "Thời gian";
             // 
@@ -75,7 +75,7 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(298, 46);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(128, 37);
+            this.label3.Size = new System.Drawing.Size(80, 25);
             this.label3.TabIndex = 0;
             this.label3.Text = "Câu hỏi";
             // 
@@ -84,7 +84,7 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(520, 46);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(246, 37);
+            this.label4.Size = new System.Drawing.Size(149, 25);
             this.label4.TabIndex = 0;
             this.label4.Text = "Câu trả lời đúng";
             // 
@@ -129,13 +129,15 @@
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(63, 92);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(128, 37);
+            this.label5.Size = new System.Drawing.Size(80, 25);
             this.label5.TabIndex = 0;
             this.label5.Text = "Câu hỏi";
             // 
             // txtCauHoi
             // 
+            this.txtCauHoi.BackColor = System.Drawing.Color.White;
             this.txtCauHoi.Enabled = false;
+            this.txtCauHoi.ForeColor = System.Drawing.Color.Black;
             this.txtCauHoi.Location = new System.Drawing.Point(68, 120);
             this.txtCauHoi.Multiline = true;
             this.txtCauHoi.Name = "txtCauHoi";
@@ -161,7 +163,7 @@
             this.rdD.AutoSize = true;
             this.rdD.Location = new System.Drawing.Point(25, 133);
             this.rdD.Name = "rdD";
-            this.rdD.Size = new System.Drawing.Size(71, 41);
+            this.rdD.Size = new System.Drawing.Size(47, 29);
             this.rdD.TabIndex = 3;
             this.rdD.Text = "D";
             this.rdD.UseVisualStyleBackColor = true;
@@ -171,7 +173,7 @@
             this.rdC.AutoSize = true;
             this.rdC.Location = new System.Drawing.Point(25, 94);
             this.rdC.Name = "rdC";
-            this.rdC.Size = new System.Drawing.Size(71, 41);
+            this.rdC.Size = new System.Drawing.Size(48, 29);
             this.rdC.TabIndex = 2;
             this.rdC.Text = "C";
             this.rdC.UseVisualStyleBackColor = true;
@@ -181,7 +183,7 @@
             this.rdB.AutoSize = true;
             this.rdB.Location = new System.Drawing.Point(25, 55);
             this.rdB.Name = "rdB";
-            this.rdB.Size = new System.Drawing.Size(69, 41);
+            this.rdB.Size = new System.Drawing.Size(46, 29);
             this.rdB.TabIndex = 1;
             this.rdB.Text = "B";
             this.rdB.UseVisualStyleBackColor = true;
@@ -192,7 +194,7 @@
             this.rdA.Checked = true;
             this.rdA.Location = new System.Drawing.Point(25, 16);
             this.rdA.Name = "rdA";
-            this.rdA.Size = new System.Drawing.Size(70, 41);
+            this.rdA.Size = new System.Drawing.Size(47, 29);
             this.rdA.TabIndex = 1;
             this.rdA.TabStop = true;
             this.rdA.Text = "A";
@@ -250,7 +252,7 @@
             // 
             // FrmTest
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(19F, 37F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1119, 513);
             this.Controls.Add(this.btnQuayLai);

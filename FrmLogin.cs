@@ -30,10 +30,10 @@ namespace KiemTraTracNghiem
                 return;
             }
             //nếu nhập đúng mật khẩu
-            else if (txtPass.Text == passWord)
+            else if (txtPass.Text.ToLower() == passWord)
             {
                 //đăng nhập với tư cách là người thêm câu hỏi
-                if (txtName.Text == passWord)
+                if (txtName.Text.ToLower() == passWord)
                 {
                     this.Hide();
                     FrmOption f = new FrmOption();
@@ -64,9 +64,5 @@ namespace KiemTraTracNghiem
         
         }
 
-        private void FrmLogin_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }

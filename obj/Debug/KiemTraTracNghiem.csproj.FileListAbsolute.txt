@@ -38,3 +38,31 @@ D:\LTGD\KiemTraTracNghiem\KiemTraTracNghiem\obj\Debug\KiemTraTracNghiem.FrmOptio
 \\Mac\Home\Downloads\KiemTraTracNghiem (1)\obj\Debug\KiemTraTracNghiem.csproj.CoreCompileInputs.cache
 \\Mac\Home\Downloads\KiemTraTracNghiem (1)\obj\Debug\KiemTraTracNghiem.exe
 \\Mac\Home\Downloads\KiemTraTracNghiem (1)\obj\Debug\KiemTraTracNghiem.pdb
+D:\LTGD\TracNghiem\bin\Debug\KiemTraTracNghiem.exe.config
+D:\LTGD\TracNghiem\bin\Debug\KiemTraTracNghiem.exe
+D:\LTGD\TracNghiem\bin\Debug\KiemTraTracNghiem.pdb
+D:\LTGD\TracNghiem\obj\Debug\KiemTraTracNghiem.csproj.AssemblyReference.cache
+D:\LTGD\TracNghiem\obj\Debug\KiemTraTracNghiem.FrmCreateQuestions.resources
+D:\LTGD\TracNghiem\obj\Debug\KiemTraTracNghiem.FrmOption.resources
+D:\LTGD\TracNghiem\obj\Debug\KiemTraTracNghiem.FrmLogin.resources
+D:\LTGD\TracNghiem\obj\Debug\KiemTraTracNghiem.FrmTest.resources
+D:\LTGD\TracNghiem\obj\Debug\KiemTraTracNghiem.Options.resources
+D:\LTGD\TracNghiem\obj\Debug\KiemTraTracNghiem.Properties.Resources.resources
+D:\LTGD\TracNghiem\obj\Debug\KiemTraTracNghiem.csproj.GenerateResource.cache
+D:\LTGD\TracNghiem\obj\Debug\KiemTraTracNghiem.csproj.CoreCompileInputs.cache
+D:\LTGD\TracNghiem\obj\Debug\KiemTraTracNghiem.exe
+D:\LTGD\TracNghiem\obj\Debug\KiemTraTracNghiem.pdb
+\\Mac\Home\Downloads\Quiz (final)\bin\Debug\KiemTraTracNghiem.exe.config
+\\Mac\Home\Downloads\Quiz (final)\bin\Debug\KiemTraTracNghiem.exe
+\\Mac\Home\Downloads\Quiz (final)\bin\Debug\KiemTraTracNghiem.pdb
+\\Mac\Home\Downloads\Quiz (final)\obj\Debug\KiemTraTracNghiem.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Quiz (final)\obj\Debug\KiemTraTracNghiem.FrmCreateQuestions.resources
+\\Mac\Home\Downloads\Quiz (final)\obj\Debug\KiemTraTracNghiem.FrmOption.resources
+\\Mac\Home\Downloads\Quiz (final)\obj\Debug\KiemTraTracNghiem.FrmLogin.resources
+\\Mac\Home\Downloads\Quiz (final)\obj\Debug\KiemTraTracNghiem.FrmTest.resources
+\\Mac\Home\Downloads\Quiz (final)\obj\Debug\KiemTraTracNghiem.Options.resources
+\\Mac\Home\Downloads\Quiz (final)\obj\Debug\KiemTraTracNghiem.Properties.Resources.resources
+\\Mac\Home\Downloads\Quiz (final)\obj\Debug\KiemTraTracNghiem.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Quiz (final)\obj\Debug\KiemTraTracNghiem.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Quiz (final)\obj\Debug\KiemTraTracNghiem.exe
+\\Mac\Home\Downloads\Quiz (final)\obj\Debug\KiemTraTracNghiem.pdb
