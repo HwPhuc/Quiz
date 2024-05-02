@@ -1,0 +1,21 @@
+Nguyên tố nào sau đây là kim loại?;Hydro;Oxy;Đồng;Cacbon;Đồng
+Nước có công thức hóa học nào sau đây?;H2;O2;H2O;CO2;H2O
+Công thức hóa học của muối ăn là gì?;H2O;NaCl;KCl;CaCO3;NaCl
+Đơn vị cơ bản của phân tử là gì?;Nguyên tử;Ion;Electron;Nơtron;Nguyên tử
+Axit clohydric có công thức hóa học nào sau đây?;HCl;HCI;ClH;CHl;HCl
+Đồng (II) sunfat có công thức hóa học là gì?;CuO;CuSO4;Cu2SO4;Cu(SO4)2;CuSO4
+Phản ứng hóa học nào sau đây là phản ứng oxi hóa - khử?;H2 + O2 -> H2O;NaCl + AgNO3 -> AgCl + NaNO3;C + O2 -> CO2;CaCO3 -> CaO + CO2;H2 + O2 -> H2O
+Nhiệt phân là quá trình hóa học nào sau đây?;Phân hủy hợp chất bằng nhiệt;Kết hợp các hợp chất bằng nhiệt;Làm lạnh hợp chất;Phản ứng trao đổi ion;Phân hủy hợp chất bằng nhiệt
+Nước cứng chủ yếu chứa các ion nào?;Na+ và Cl-;Ca2+ và Mg2+;K+ và S2-;H+ và OH-;Ca2+ và Mg2+
+Anion là gì?;Ion mang điện tích dương;Ion mang điện tích âm;Một nguyên tử không mang điện;Một hợp chất;Ion mang điện tích âm
+Phản ứng trùng hợp của etilen tạo ra sản phẩm nào?;Metan;Etylen glycol;Polietilen;Đietyl ete;Polietilen
+Các chất được sử dụng để làm khô khí nào không?;P2O5;CaCl2;NaOH;H2SO4;NaOH
+Phản ứng tổng hợp amoniac NH3 từ N2 và H2 là một ví dụ của quá trình nào?;Phân hủy;Phản ứng trao đổi;Phản ứng tổng hợp;Quang hợp;Phản ứng tổng hợp
+Axit nào là một trong những axit mạnh nhất?;Axit axetic;Axit citric;Axit sunfuric;Axit lactic;Axit sunfuric
+Cation là gì?;Ion mang điện tích âm;Ion mang điện tích dương;Một nguyên tử không mang điện;Một hợp chất;Ion mang điện tích dương
+Điều chế khí oxi trong phòng thí nghiệm từ chất nào?;Kali permanganat;Natri clorua;Bari sunfat;Canxi cacbonat;Kali permanganat
+Trong công nghiệp, khí hidro được sản xuất chủ yếu từ quá trình nào?;Điện phân nước;Nhiệt phân nước;Tách hydro từ khí tự nhiên;Phản ứng giữa axit và kim loại;Tách hydro từ khí tự nhiên
+Cách phân biệt khí CO2 và khí O2 trong phòng thí nghiệm là gì?;Dùng que đóm cháy;Dùng dung dịch nước vôi trong;Dùng dung dịch brom;Dùng dung dịch iot;Dùng que đóm cháy
+Khí nào sau đây làm xanh giấy quỳ tím ẩm?;CO2;O2;NH3;H2;NH3
+Axit sunfuric đặc có khả năng làm gì?;Làm khô các chất khác;Cháy trong không khí;Phản ứng với kim loại tạo khí hidro;Làm đông đặc nước;Làm khô các chất khác
+

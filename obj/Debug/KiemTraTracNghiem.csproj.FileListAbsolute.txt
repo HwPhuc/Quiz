@@ -1,0 +1,40 @@
+D:\LT Giao Diện\KiemTraTracNghiem\KiemTraTracNghiem\bin\Debug\KiemTraTracNghiem.exe.config
+D:\LT Giao Diện\KiemTraTracNghiem\KiemTraTracNghiem\bin\Debug\KiemTraTracNghiem.exe
+D:\LT Giao Diện\KiemTraTracNghiem\KiemTraTracNghiem\bin\Debug\KiemTraTracNghiem.pdb
+D:\LT Giao Diện\KiemTraTracNghiem\KiemTraTracNghiem\obj\Debug\KiemTraTracNghiem.csproj.AssemblyReference.cache
+D:\LT Giao Diện\KiemTraTracNghiem\KiemTraTracNghiem\obj\Debug\KiemTraTracNghiem.Properties.Resources.resources
+D:\LT Giao Diện\KiemTraTracNghiem\KiemTraTracNghiem\obj\Debug\KiemTraTracNghiem.csproj.GenerateResource.cache
+D:\LT Giao Diện\KiemTraTracNghiem\KiemTraTracNghiem\obj\Debug\KiemTraTracNghiem.csproj.CoreCompileInputs.cache
+D:\LT Giao Diện\KiemTraTracNghiem\KiemTraTracNghiem\obj\Debug\KiemTraTracNghiem.exe
+D:\LT Giao Diện\KiemTraTracNghiem\KiemTraTracNghiem\obj\Debug\KiemTraTracNghiem.pdb
+D:\LT Giao Diện\KiemTraTracNghiem\KiemTraTracNghiem\obj\Debug\KiemTraTracNghiem.Options.resources
+D:\LT Giao Diện\KiemTraTracNghiem\KiemTraTracNghiem\obj\Debug\KiemTraTracNghiem.FrmLogin.resources
+D:\LT Giao Diện\KiemTraTracNghiem\KiemTraTracNghiem\obj\Debug\KiemTraTracNghiem.FrmTest.resources
+D:\LTGD\KiemTraTracNghiem\KiemTraTracNghiem\bin\Debug\KiemTraTracNghiem.exe.config
+D:\LTGD\KiemTraTracNghiem\KiemTraTracNghiem\bin\Debug\KiemTraTracNghiem.exe
+D:\LTGD\KiemTraTracNghiem\KiemTraTracNghiem\bin\Debug\KiemTraTracNghiem.pdb
+D:\LTGD\KiemTraTracNghiem\KiemTraTracNghiem\obj\Debug\KiemTraTracNghiem.csproj.AssemblyReference.cache
+D:\LTGD\KiemTraTracNghiem\KiemTraTracNghiem\obj\Debug\KiemTraTracNghiem.FrmLogin.resources
+D:\LTGD\KiemTraTracNghiem\KiemTraTracNghiem\obj\Debug\KiemTraTracNghiem.FrmTest.resources
+D:\LTGD\KiemTraTracNghiem\KiemTraTracNghiem\obj\Debug\KiemTraTracNghiem.Options.resources
+D:\LTGD\KiemTraTracNghiem\KiemTraTracNghiem\obj\Debug\KiemTraTracNghiem.Properties.Resources.resources
+D:\LTGD\KiemTraTracNghiem\KiemTraTracNghiem\obj\Debug\KiemTraTracNghiem.csproj.GenerateResource.cache
+D:\LTGD\KiemTraTracNghiem\KiemTraTracNghiem\obj\Debug\KiemTraTracNghiem.csproj.CoreCompileInputs.cache
+D:\LTGD\KiemTraTracNghiem\KiemTraTracNghiem\obj\Debug\KiemTraTracNghiem.exe
+D:\LTGD\KiemTraTracNghiem\KiemTraTracNghiem\obj\Debug\KiemTraTracNghiem.pdb
+D:\LTGD\KiemTraTracNghiem\KiemTraTracNghiem\obj\Debug\KiemTraTracNghiem.FrmCreateQuestions.resources
+D:\LTGD\KiemTraTracNghiem\KiemTraTracNghiem\obj\Debug\KiemTraTracNghiem.FrmOption.resources
+\\Mac\Home\Downloads\KiemTraTracNghiem (1)\bin\Debug\KiemTraTracNghiem.exe.config
+\\Mac\Home\Downloads\KiemTraTracNghiem (1)\bin\Debug\KiemTraTracNghiem.exe
+\\Mac\Home\Downloads\KiemTraTracNghiem (1)\bin\Debug\KiemTraTracNghiem.pdb
+\\Mac\Home\Downloads\KiemTraTracNghiem (1)\obj\Debug\KiemTraTracNghiem.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\KiemTraTracNghiem (1)\obj\Debug\KiemTraTracNghiem.FrmCreateQuestions.resources
+\\Mac\Home\Downloads\KiemTraTracNghiem (1)\obj\Debug\KiemTraTracNghiem.FrmOption.resources
+\\Mac\Home\Downloads\KiemTraTracNghiem (1)\obj\Debug\KiemTraTracNghiem.FrmLogin.resources
+\\Mac\Home\Downloads\KiemTraTracNghiem (1)\obj\Debug\KiemTraTracNghiem.FrmTest.resources
+\\Mac\Home\Downloads\KiemTraTracNghiem (1)\obj\Debug\KiemTraTracNghiem.Options.resources
+\\Mac\Home\Downloads\KiemTraTracNghiem (1)\obj\Debug\KiemTraTracNghiem.Properties.Resources.resources
+\\Mac\Home\Downloads\KiemTraTracNghiem (1)\obj\Debug\KiemTraTracNghiem.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\KiemTraTracNghiem (1)\obj\Debug\KiemTraTracNghiem.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\KiemTraTracNghiem (1)\obj\Debug\KiemTraTracNghiem.exe
+\\Mac\Home\Downloads\KiemTraTracNghiem (1)\obj\Debug\KiemTraTracNghiem.pdb

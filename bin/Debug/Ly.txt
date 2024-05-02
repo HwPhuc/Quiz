@@ -1,0 +1,20 @@
+Áp suất là gì?;Lực tác dụng lên một đơn vị diện tích;Khối lượng của vật;Thể tích của vật;Nhiệt độ môi trường;Lực tác dụng lên một đơn vị diện tích
+Đơn vị của công trong hệ SI là gì?;Newton;Joule;Pascal;Watt;Joule
+Vận tốc ánh sáng trong chân không là bao nhiêu?;300.000 km/s;150.000 km/s;250.000 km/s;350.000 km/s;300.000 km/s
+Nhiệt độ tuyệt đối không là bao nhiêu độ Celsius?;-273.15 độ C;0 độ C;100 độ C;-100 độ C;-273.15 độ C
+Thuyết tương đối hẹp được phát minh bởi ai?;Isaac Newton;Albert Einstein;Nikola Tesla;Stephen Hawking;Albert Einstein
+Đơn vị của lực trong hệ SI là gì?;Newton;Joule;Pascal;Watt;Newton
+Công thức tính năng lượng của một vật có khối lượng \(m\) và vận tốc \(v\) là gì?;\(E = mv\);\(\frac{1}{2} mv^2\);\(E = mgh\);\(E = mc^2\);\(\frac{1}{2} mv^2\)
+Quá trình chuyển từ thể lỏng sang thể hơi được gọi là gì?;Đông đặc;Ngưng tụ;Bay hơi;Phân hủy;Bay hơi
+Lực đẩy Archimedes tác dụng lên một vật là gì?;Bằng trọng lượng của vật;Bằng trọng lượng của chất lỏng vật đã dịch chuyển;Bằng thể tích của vật;Bằng khối lượng của vật;Bằng trọng lượng của chất lỏng vật đã dịch chuyển
+Tia X được phát hiện bởi ai?;Marie Curie;Albert Einstein;Wilhelm Roentgen;Isaac Newton;Wilhelm Roentgen
+Cường độ dòng điện được đo bằng đơn vị nào?;Volt;Watt;Ampere;Joule;Ampere
+Kính thiên văn hoạt động dựa trên nguyên tắc nào?;Phản xạ ánh sáng;Khúc xạ ánh sáng;Phóng xạ;Điện từ;Khúc xạ ánh sáng
+Tần số của một sóng được đo bằng đơn vị gì?;Hertz;Newton;Joule;Pascal;Hertz
+Năng lượng mặt trời là ví dụ về loại năng lượng nào?;Năng lượng tái tạo;Năng lượng hóa thạch;Năng lượng không tái tạo;Năng lượng điện;Năng lượng tái tạo
+Công thức của Định luật Ohm là gì?;\(V = IR\);\(I = VR\);\(R = VI\);\(V = RI\);\(V = IR\)
+Nhiệt độ sôi của nước ở mực nước biển là bao nhiêu độ C?;90 độ C;95 độ C;100 độ C;105 độ C;100 độ C
+Lực ma sát phụ thuộc vào yếu tố nào?;Khối lượng của vật;Vận tốc của vật;Bề mặt tiếp xúc và trạng thái của bề mặt;Nhiệt độ môi trường;Bề mặt tiếp xúc và trạng thái của bề mặt
+Công thức tính điện trở của một vật dẫn là gì?;\(R = \frac{V}{I}\);\(R = \frac{I}{V}\);\(R = \rho \frac{L}{A}\);\(R = \frac{L}{A\rho}\);\(R = \rho \frac{L}{A}\)
+Một sóng điện từ gồm thành phần nào?;Chỉ có thành phần điện;Chỉ có thành phần từ;Cả thành phần điện và thành phần từ;Chỉ có thành phần nhiệt;Cả thành phần điện và thành phần từ
+Thế năng là gì?;Năng lượng do vận tốc của vật;Năng lượng do vị trí hoặc cấu trúc của vật;Năng lượng do nhiệt;Năng lượng do ánh sáng;Năng lượng do vị trí hoặc cấu trúc của vật

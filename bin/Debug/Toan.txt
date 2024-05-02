@@ -1,0 +1,20 @@
+Tổng của 45 và 55 là bao nhiêu?;90;100;110;120;100
+Tích của 7 và 8 là bao nhiêu?;56;65;48;75;56
+Phép tính 24 chia 6 bằng bao nhiêu?;3;4;5;6;4
+15% của 200 bằng bao nhiêu?;30;25;20;35;30
+Một hình lục giác có bao nhiêu cạnh?;6;7;8;5;6
+Căn bậc hai của 64 là bao nhiêu?;6;7;8;9;8
+Nếu bạn chia 42 cho 7, thương số là bao nhiêu?;5;6;7;8;6
+Kết quả của 2^3 là bao nhiêu?;6;8;10;12;8
+Hình nào có bốn cạnh bằng nhau và bốn góc vuông?;Hình chữ nhật;Hình thoi;Hình vuông;Hình tam giác;Hình vuông
+Số nguyên tố tiếp theo sau 11 là gì?;12;13;14;15;13
+Kết quả của 180 chia 12 là gì?;12;13;14;15;15
+Trong một giờ có bao nhiêu phút?;30;60;90;120;60
+Bảng cửu chương 6 nhân 8 bằng bao nhiêu?;42;44;48;50;48
+Diện tích của hình vuông cạnh 5cm là bao nhiêu?;20cm²;25cm²;15cm²;30cm²;25cm²
+Bán kính của đường tròn là 4cm, diện tích của đường tròn đó là bao nhiêu?;12.56cm²;25.12cm²;50.24cm²;100.48cm²;50.24cm²
+Nếu một góc bằng 30 độ, thì góc đối của nó bằng bao nhiêu độ?;30;60;90;150;150
+Một hình chóp có bao nhiêu đỉnh?;1;4;6;8;4
+Số học sinh của lớp 6A là 45, số học sinh giỏi chiếm 20%, vậy có bao nhiêu học sinh giỏi?;6;7;8;9;9
+Trong một ngày có bao nhiêu giờ?;12;24;36;48;24
+2^-1 bằng mấy?;2;-2;1;Không tồn tại;D
