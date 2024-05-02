@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "\\\\Mac\\Home\\Downloads\\Quiz\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A1AF91F9-F45A-4705-9702-DF800E0CE8CC}|KiemTraTracNghiem.csproj|\\\\mac\\home\\downloads\\quiz\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A1AF91F9-F45A-4705-9702-DF800E0CE8CC}|KiemTraTracNghiem.csproj|\\\\mac\\home\\downloads\\quiz\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -30,11 +33,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\Quiz\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "FrmLogin.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\Quiz\\FrmLogin.cs*",
+              "RelativeToolTip": "FrmLogin.cs*",
+              "ViewState": "AQIAACoAAAAAAAAAAAAuwDYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:48:42.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FrmLogin.cs [Design]",
               "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\Quiz\\FrmLogin.cs",
               "RelativeDocumentMoniker": "FrmLogin.cs",
-              "ToolTip": "\\\\Mac\\Home\\Downloads\\Quiz\\FrmLogin.cs [Design]",
-              "RelativeToolTip": "FrmLogin.cs [Design]",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\Quiz\\FrmLogin.cs [Design]*",
+              "RelativeToolTip": "FrmLogin.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T17:44:38.351Z",
               "EditorCaption": " [Design]"
